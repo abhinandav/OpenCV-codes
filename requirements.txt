@@ -1,0 +1,7 @@
+cvzone
+mediapipe
+pyautogui
+pywhatkit
+numpy 
+tensorflow 
+keras
